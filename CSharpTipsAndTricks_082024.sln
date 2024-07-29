@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35118.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{8CD9F100-A213-4993-92C8-AAD6C02A148D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logic", "Logic\Logic.csproj", "{8CD9F100-A213-4993-92C8-AAD6C02A148D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipDemo", "ZipDemo\ZipDemo.csproj", "{298535D4-6066-4655-A4AB-409CDDF4CF78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZipDemo", "ZipDemo\ZipDemo.csproj", "{298535D4-6066-4655-A4AB-409CDDF4CF78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskWhenEach", "TaskWhenEach\TaskWhenEach.csproj", "{C9240FD4-1368-40B4-8968-45FF2204B96A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{298535D4-6066-4655-A4AB-409CDDF4CF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{298535D4-6066-4655-A4AB-409CDDF4CF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{298535D4-6066-4655-A4AB-409CDDF4CF78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9240FD4-1368-40B4-8968-45FF2204B96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9240FD4-1368-40B4-8968-45FF2204B96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9240FD4-1368-40B4-8968-45FF2204B96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9240FD4-1368-40B4-8968-45FF2204B96A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
